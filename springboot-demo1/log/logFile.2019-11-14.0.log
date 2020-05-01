@@ -1,0 +1,13 @@
+08:06:03.480 [main] INFO  c.c.s.SpringbootDemoApplication:55- Starting SpringbootDemoApplication on AJM-20160706HFU with PID 2164 (D:\workspace\stsworkspace\springboot-demo\target\classes started by Administrator in D:\workspace\stsworkspace\springboot-demo)
+08:06:03.489 [main] INFO  c.c.s.SpringbootDemoApplication:651- No active profile set, falling back to default profiles: default
+08:06:06.102 [main] INFO  c.c.s.SpringbootDemoApplication:61- Started SpringbootDemoApplication in 3.343 seconds (JVM running for 4.137)
+08:06:40.640 [http-nio-8080-exec-1] INFO  c.c.s.controller.Test1Controller:21- this is info level log text
+08:07:51.294 [main] INFO  c.c.s.SpringbootDemoApplication:55- Starting SpringbootDemoApplication on AJM-20160706HFU with PID 8884 (D:\workspace\stsworkspace\springboot-demo\target\classes started by Administrator in D:\workspace\stsworkspace\springboot-demo)
+08:07:51.299 [main] INFO  c.c.s.SpringbootDemoApplication:651- No active profile set, falling back to default profiles: default
+08:07:54.469 [main] INFO  c.c.s.SpringbootDemoApplication:61- Started SpringbootDemoApplication in 4.01 seconds (JVM running for 5.199)
+08:08:01.429 [http-nio-8080-exec-1] INFO  c.c.s.controller.Test1Controller:21- this is info level log text
+2019-11-14 08:10:10 [INFO][cn.com.sinosoft.SpringbootDemoApplication][logStarting][55]-> Starting SpringbootDemoApplication on AJM-20160706HFU with PID 6428 (D:\workspace\stsworkspace\springboot-demo\target\classes started by Administrator in D:\workspace\stsworkspace\springboot-demo)
+2019-11-14 08:10:10 [INFO][cn.com.sinosoft.SpringbootDemoApplication][logStartupProfileInfo][651]-> No active profile set, falling back to default profiles: default
+2019-11-14 08:10:13 [INFO][cn.com.sinosoft.SpringbootDemoApplication][logStarted][61]-> Started SpringbootDemoApplication in 3.106 seconds (JVM running for 3.88)
+2019-11-14 08:10:21 [INFO][cn.com.sinosoft.controller.Test1Controller][test][21]-> this is info level log text
+2019-11-14 08:10:28 [INFO][cn.com.sinosoft.controller.Test1Controller][test][21]-> this is info level log text

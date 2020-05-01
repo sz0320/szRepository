@@ -1,0 +1,4 @@
+21:22:34.853 [main] INFO  c.c.s.SpringbootDemoApplication:55- Starting SpringbootDemoApplication on AJM-20160706HFU with PID 7752 (D:\workspace\stsworkspace\springboot-demo\target\classes started by Administrator in D:\workspace\stsworkspace\springboot-demo)
+21:22:34.855 [main] INFO  c.c.s.SpringbootDemoApplication:651- No active profile set, falling back to default profiles: default
+21:22:39.231 [main] INFO  c.c.s.SpringbootDemoApplication:61- Started SpringbootDemoApplication in 5.385 seconds (JVM running for 7.669)
+21:23:01.960 [http-nio-8080-exec-2] INFO  c.c.s.controller.Test1Controller:21- this is info level log text

@@ -1,0 +1,4 @@
+2019-11-16 09:01:18 [INFO][cn.com.sinosoft.SpringbootDemoApplication][logStarting][55]-> Starting SpringbootDemoApplication on AJM-20160706HFU with PID 4008 (D:\workspace\stsworkspace\springboot-demo\target\classes started by Administrator in D:\workspace\stsworkspace\springboot-demo)
+2019-11-16 09:01:18 [INFO][cn.com.sinosoft.SpringbootDemoApplication][logStartupProfileInfo][651]-> No active profile set, falling back to default profiles: default
+2019-11-16 09:01:20 [INFO][cn.com.sinosoft.SpringbootDemoApplication][logStarted][61]-> Started SpringbootDemoApplication in 2.797 seconds (JVM running for 3.473)
+2019-11-16 09:01:48 [INFO][cn.com.sinosoft.controller.Test1Controller][test][21]-> this is info level log text
