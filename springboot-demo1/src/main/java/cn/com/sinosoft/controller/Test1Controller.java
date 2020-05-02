@@ -23,9 +23,11 @@ public class Test1Controller {
 	
 	@PostMapping("/test")
 	public Map<String, Object> test(@RequestBody Map<String,Object> paramMap) {
+		Integer i = 5;
 		Map<String, Object> map = new HashMap<String, Object>();
 		logger.info("this is info level log text");
 		Integer empNo = (Integer) paramMap.get("empNo");
+		int a = i / empNo;
 		Emp emp = empMapper.findEmp(empNo);
 		map.put("emp", emp);
 		return map;
